@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.tong{
+    width: 1200px;
+    margin: auto;
+}
+.hang1{
+    margin-top: 20px;
+}
+#o1{
+    background-color: blueviolet;
+    width: 1200px;
+    height: 50px;
+}
+#o2{
+    background-color: aqua;
+    width: 1200px;
+    height: 150px;
+}
+#o3{
+    background-color: darkgoldenrod;
+    width: 1200px;
+    height: 200px;
+}
+#o4{
+    background-color: pink;
+    width: 1200px;
+    height: 100px;
+}
+#o5{
+    background-color: greenyellow;    
+    width: 1200px;
+    height: 70px;
+}
+#bong{
+   margin-left: 200px;
+   margin-top: -570px;
+    background-color: bisque;
+    width: 800px;
+    height: 570px;
+    position: absolute;
+    opacity: 0.6;
+}

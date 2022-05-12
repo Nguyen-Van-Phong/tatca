@@ -1,0 +1,29 @@
+#container{
+    width:800px;
+    margin:0px auto;
+}
+#menu{
+    height:40px;
+    background-color:cornflowerblue;
+}
+#banner{
+    height: 120px;
+    background-color:red;
+    
+}
+#left{
+    height:320px;
+    background-color:orange;
+    width:600px;
+    float: left;
+}
+#right{
+    height:320px;
+    width:200px;
+    background-color:darkseagreen;
+    float: left;
+}
+#footer{
+    height: 40px;
+    background-color:blue;
+}

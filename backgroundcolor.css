@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.tong{
+    width: 1200px;
+}
+.hang1{
+    display: flex;
+}
+#khoi1{
+    background: rgb(0,24,36);
+background: linear-gradient(90deg, rgba(0,24,36,0.39289219105610995) 0%, rgba(77,66,4,0.981127485173757) 0%, rgba(95,80,6,1) 0%, rgba(20,0,255,1) 53%, rgba(121,114,9,1) 67%);
+    width: 200px;
+    height: 200px;
+    margin-left: 35px;
+}
+#khoi2{
+    background: rgb(36,0,34);
+    background: linear-gradient(90deg, rgba(36,0,34,1) 2%, rgba(119,121,9,1) 34%, rgba(255,0,254,0.9756945014333859) 100%);
+    width: 200px;
+    height: 200px;
+    margin-left: 35px;
+    position: relative;
+    
+
+}
+#khoi3{
+    background: rgb(0,24,36);
+background: linear-gradient(90deg, rgba(0,24,36,0.39289219105610995) 0%, rgba(77,66,4,0.981127485173757) 0%, rgba(95,80,6,1) 0%, rgba(20,0,255,1) 53%, rgba(121,114,9,1) 67%);
+    width: 200px;
+    height: 200px;
+    margin-left: 35px;
+    
+
+}
+#khoi4{
+    background: rgb(0,24,36);
+background: linear-gradient(90deg, rgba(0,24,36,0.39289219105610995) 0%, rgba(77,66,4,0.981127485173757) 0%, rgba(95,80,6,1) 0%, rgba(20,0,255,1) 53%, rgba(121,114,9,1) 67%);
+    width: 200px;
+    height: 200px;
+    margin-left: 35px;
+    position: relative;
+
+}
+.hang2{
+    display: flex;
+    margin-left: 100px;
+    margin-top:-80px;
+  
+}
+#khoi5{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 2%, rgba(25,121,9,1) 34%, rgba(0,1,255,0.9756945014333859) 100%);
+    width: 200px;
+    height: 200px;
+    margin-left: 35px;
+    
+}
+#khoi6{
+    background: rgb(0,24,36);
+background: linear-gradient(90deg, rgba(0,24,36,0.39289219105610995) 0%, rgba(77,66,4,0.981127485173757) 0%, rgba(95,80,6,1) 34%, rgba(0,212,255,1) 53%, rgba(121,114,9,1) 67%);
+    width: 200px;
+    height: 200px;
+    margin-left: 35px;
+    position: relative;
+
+}
+#khoi7{
+    background: rgb(0,24,36);
+background: linear-gradient(90deg, rgba(0,24,36,0.39289219105610995) 0%, rgba(77,66,4,0.981127485173757) 0%, rgba(95,80,6,1) 34%, rgba(0,212,255,1) 53%, rgba(121,114,9,1) 67%);
+    width: 200px;
+    height: 200px;
+    margin-left: 35px;
+
+}
+#khoi8{
+    background: rgb(0,24,36);
+    background: linear-gradient(90deg, rgba(0,24,36,0.39289219105610995) 0%, rgba(77,4,67,0.981127485173757) 0%, rgba(121,114,9,1) 23%, rgba(95,80,6,1) 34%, rgba(0,212,255,1) 100%);
+    width: 200px;
+    height: 200px;
+    margin-left: 35px;
+    position: relative;
+
+}
